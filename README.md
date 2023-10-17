@@ -1,4 +1,4 @@
-## Deploying Next.js to GitHub Pages
+## Deploying Next.js to GitHub Page
 
 [![typescript](https://img.shields.io/badge/made%20with-typescript-blue)](https://img.shields.io/badge/made%20with-typescript-blue)
 
